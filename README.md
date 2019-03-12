@@ -43,6 +43,7 @@ Setting
   * `string`: 필드 앞에 s를 붙입니다
   * `int`: 필드 앞에 n을 붙입니다
   * `float`: 필드 앞에 f를 붙입니다
+  * 주석 필드 : 필드 앞에 언더바를 붙입니다. 필드를 포함한 열이 무시됩니다
 ### 데이터 스크립트 생성
   * GSheetManager 에셋을 선택합니다
   * Spreadsheet Name과 Worksheet Name을 입력합니다
