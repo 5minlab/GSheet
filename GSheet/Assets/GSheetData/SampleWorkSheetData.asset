@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640f383cca12a4535a3f0028bc1c40a9, type: 3}
+  m_Name: New SampleWorkSheetData
+  m_EditorClassIdentifier: 
+  SpreadSheetName: GSheetTest
+  WorkSheetName: SampleWorkSheet
+  data:
+  - _skey: KEY_LUFFY
+    _nnumber: 1
+    _sname: "\uB8E8\uD53C"
+    _fbounty: 5
+    _sjob: "\uC120\uC7A5"
+  - _skey: KEY_ZORO
+    _nnumber: 2
+    _sname: "\uC870\uB85C"
+    _fbounty: 3.20000005
+    _sjob: "\uBD80\uC120\uC7A5"
+  - _skey: KEY_NAMI
+    _nnumber: 3
+    _sname: "\uB098\uBBF8"
+    _fbounty: .660000026
+    _sjob: "\uD56D\uD574\uC0AC"
+  - _skey: KEY_USOPP
+    _nnumber: 4
+    _sname: "\uC6B0\uC19D"
+    _fbounty: 2
+    _sjob: "\uC800\uACA9\uC218"
+  - _skey: KEY_SANJI
+    _nnumber: 5
+    _sname: "\uC0C1\uB514"
+    _fbounty: 1.76999998
+    _sjob: "\uC694\uB9AC\uC0AC"
+  - _skey: KEY_CHOPPER
+    _nnumber: 6
+    _sname: "\uCD78\uD30C"
+    _fbounty: 9.99999997e-07
+    _sjob: "\uC758\uC0AC"
+  - _skey: KEY_ROBIN
+    _nnumber: 7
+    _sname: "\uB85C\uBE48"
+    _fbounty: 1.29999995
+    _sjob: "\uACE0\uACE0\uD559\uC790"

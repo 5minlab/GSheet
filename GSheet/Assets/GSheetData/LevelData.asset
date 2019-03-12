@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72b05cf576ada428faf0ac698c4bcabc, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  SpreadSheetName: UnityTest
+  WorkSheetName: Level
+  data:
+  - _sname: A
+    _nage: 20
+    _ngender: 0
+    _nscore: 60
+    _nlevel: 39
+    _scontent: "\uC548\uB155"
+    _ft: 1.2
+  - _sname: B
+    _nage: 24
+    _ngender: 1
+    _nscore: 65
+    _nlevel: 2
+    _scontent: "\uD558\uC138\uC694"
+    _ft: 1.3
+  - _sname: C
+    _nage: 19
+    _ngender: 0
+    _nscore: 66
+    _nlevel: 1
+    _scontent: "\uBC18\uAC11"
+    _ft: 5
+  - _sname: D
+    _nage: 22
+    _ngender: 0
+    _nscore: 62
+    _nlevel: 3
+    _scontent: "\uC2B5\uB2C8\uB2E4"
+    _ft: 7.2
+  - _sname: E
+    _nage: 27
+    _ngender: 1
+    _nscore: 73
+    _nlevel: 4
+    _scontent: "\uD558"
+    _ft: 4
+  - _sname: F
+    _nage: 18
+    _ngender: 0
+    _nscore: 45
+    _nlevel: 5
+    _scontent: "\uD558"
+    _ft: 2
+  - _sname: G
+    _nage: 30
+    _ngender: 0
+    _nscore: 75
+    _nlevel: 6
+    _scontent: "\uD558"
+    _ft: 3
+  - _sname: H
+    _nage: 24
+    _ngender: 1
+    _nscore: 40
+    _nlevel: 7
+    _scontent: "\uD558"
+    _ft: 1
+  - _sname: I
+    _nage: 28
+    _ngender: 0
+    _nscore: 55
+    _nlevel: 8
+    _scontent: "\uD558"
+    _ft: 5.5
+  - _sname: J
+    _nage: 22
+    _ngender: 0
+    _nscore: 80
+    _nlevel: 9
+    _scontent: "\uD558\uD558"
+    _ft: 3.4
+  - _sname: K
+    _nage: 23
+    _ngender: 1
+    _nscore: 40
+    _nlevel: 0
+    _scontent: "\uD558"
+    _ft: 0.2

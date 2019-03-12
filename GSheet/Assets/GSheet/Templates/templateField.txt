@@ -1,0 +1,6 @@
+	[SerializeField]
+	{FieldType} _{LowerCaseFieldName};
+	public {FieldType} {FieldName} {
+		get { return _{LowerCaseFieldName};}
+		set { _{LowerCaseFieldName} = value;}
+	}

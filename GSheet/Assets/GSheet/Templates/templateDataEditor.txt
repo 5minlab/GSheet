@@ -1,0 +1,9 @@
+using UnityEditor;
+
+[CustomEditor(typeof({WorkSheetName}Data))]
+public class {WorkSheetName}DataEditor : GSheetDataEditor<{WorkSheetName}Data,{WorkSheetName}DataEntry> {
+	[MenuItem("Assets/Create/Custom/GSheet/Create {WorkSheetName}Data")]
+	public static void Create() {
+		GSheetUtility.CreateAsset<{WorkSheetName}Data> ();
+	}
+}

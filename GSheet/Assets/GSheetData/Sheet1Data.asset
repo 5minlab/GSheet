@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3731864935744955a5775a6fab0daab, type: 3}
+  m_Name: Sheet1Data
+  m_EditorClassIdentifier: 
+  SpreadSheetName: UnityTest
+  WorkSheetName: Sheet1
+  data:
+  - _sname: A
+    _nage: 20
+    _ngender: 0
+    _nscore: 60
+  - _sname: B
+    _nage: 24
+    _ngender: 1
+    _nscore: 65
+  - _sname: C
+    _nage: 19
+    _ngender: 0
+    _nscore: 66
+  - _sname: D
+    _nage: 22
+    _ngender: 0
+    _nscore: 62
+  - _sname: E
+    _nage: 27
+    _ngender: 1
+    _nscore: 73
+  - _sname: F
+    _nage: 18
+    _ngender: 0
+    _nscore: 45
+  - _sname: G
+    _nage: 30
+    _ngender: 0
+    _nscore: 75
+  - _sname: H
+    _nage: 24
+    _ngender: 1
+    _nscore: 40
+  - _sname: I
+    _nage: 28
+    _ngender: 0
+    _nscore: 55
+  - _sname: J
+    _nage: 22
+    _ngender: 0
+    _nscore: 80
+  - _sname: K
+    _nage: 23
+    _ngender: 1
+    _nscore: 40

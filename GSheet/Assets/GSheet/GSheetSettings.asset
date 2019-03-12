@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d5f1d47dc8d984e9a70753e537e45e, type: 3}
+  m_Name: GSheetSettings
+  m_EditorClassIdentifier: 
+  CLIENT_ID: 
+  CLIENT_SECRET: 
+  ACCESS_CODE: 
+  ACCESS_TOKEN: 
+  REFRESH_TOKEN: 
+  ScriptPath: Assets/Scripts/GSheet
+  EditorScriptPath: Assets/Editor/GSheet
+  DataAssetPath: Assets/GSheetData
+  FieldTemplate: {fileID: 4900000, guid: 3fec047526f19d344a9a2053b1aaa18d, type: 3}
+  DataTemplate: {fileID: 4900000, guid: d6e0edfd5476c4249b172fa269e1701e, type: 3}
+  DataEditorTemplate: {fileID: 4900000, guid: a47ab625e4a159c4da00f4c573579977, type: 3}
