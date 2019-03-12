@@ -1,4 +1,5 @@
 # Unity GSheet Util Manual
+Unity 에서 Google Spread Sheet Data 를 가져와서 사용할 수 있도록 하는 GSheet Util 의 사용법을 안내하는 문서입니다.
 
 Installation
 ------------
